@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import pandas as pd
+
 import pandas as pd
 import pylab as pl
 
